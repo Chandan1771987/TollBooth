@@ -1,0 +1,2 @@
+module VehiclePassHelper
+end

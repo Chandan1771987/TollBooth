@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  reg_no: MyString
+  model: MyString
+  company: MyString
+  no_of_wheels: 1
+  v_type: MyString
+
+two:
+  reg_no: MyString
+  model: MyString
+  company: MyString
+  no_of_wheels: 1
+  v_type: MyString

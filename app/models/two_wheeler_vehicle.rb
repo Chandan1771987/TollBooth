@@ -1,0 +1,3 @@
+class TwoWheelerVehicle < Vehicle
+
+end

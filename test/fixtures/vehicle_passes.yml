@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  vehicle_id: 1
+  toll_id: 1
+  toll_booth_id: 1
+  pass_id: 1
+  expires_at: 2021-05-31 19:00:43
+  direction: MyString
+
+two:
+  vehicle_id: 1
+  toll_id: 1
+  toll_booth_id: 1
+  pass_id: 1
+  expires_at: 2021-05-31 19:00:43
+  direction: MyString

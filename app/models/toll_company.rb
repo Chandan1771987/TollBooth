@@ -1,0 +1,2 @@
+class TollCompany < ApplicationRecord
+end

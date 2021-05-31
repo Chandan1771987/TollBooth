@@ -1,0 +1,2 @@
+class Toll < ApplicationRecord
+end

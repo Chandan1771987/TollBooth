@@ -1,0 +1,4 @@
+class TollBooth < ApplicationRecord
+
+
+end

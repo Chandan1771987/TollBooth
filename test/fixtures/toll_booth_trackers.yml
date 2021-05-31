@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  vehicle_id: 1
+  toll_both_id: 1
+  toll_id: 1
+  purchased: false
+  processed: false
+  pass_id: 1
+
+two:
+  vehicle_id: 1
+  toll_both_id: 1
+  toll_id: 1
+  purchased: false
+  processed: false
+  pass_id: 1
